@@ -8,7 +8,6 @@ public class Food {
 	BigDecimal price;
 	
 	public Food(String name, String description, BigDecimal price) {
-		super();
 		this.name = name;
 		this.description = description;
 		this.price = price;

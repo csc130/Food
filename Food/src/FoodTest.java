@@ -10,6 +10,8 @@ public class FoodTest {
 	@Test
 	public void test() {
 		System.out.println(aFood);
+		System.out.println(aFood.toString());
+		
 	}
 
 }
